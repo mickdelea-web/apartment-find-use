@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mickdelea-web.github.io/apartment-find-use/sitemap.xml
